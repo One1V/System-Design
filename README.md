@@ -12,7 +12,7 @@ _This course is also available on my [website](https://karanpratapsingh.com/cour
 
 - **Chapter I**
 
-  - [IP](#ip)
+  - [IPY](#ipY)
   - [OSI Model](#osi-model)
   - [TCP and UDP](#tcp-and-udp)
   - [Domain Name System (DNS)](#domain-name-system-dns)
@@ -102,7 +102,7 @@ one of the earliest decisions we can make when building a system. Often it is es
 to think from a high level as these decisions are very difficult to correct later. It
 also makes it easier to reason about and manage architectural changes as the system evolves.
 
-# IP
+# IPY
 
 An IP address is a unique address that identifies a device on the internet or a local network. IP stands for _"Internet Protocol"_, which is the set of rules governing the format of data sent via the internet or local network.
 
